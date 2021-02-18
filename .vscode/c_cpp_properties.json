@@ -1,0 +1,19 @@
+{
+    "configurations": [
+        {
+            "name": "Mac",
+            "includePath": [
+                "${workspaceFolder}/**"
+            ],
+            "defines": [],
+            "macFrameworkPath": [],
+            "compilerPath": "/usr/local/bin/arm-none-eabi-gcc",
+            "cStandard": "gnu17",
+            "cppStandard": "gnu++14",
+            "intelliSenseMode": "macos-gcc-arm",
+            "configurationProvider": "ms-vscode.cmake-tools",
+            "compileCommands": "/Users/dylan/Library/pico/pico-examples/build/compile_commands.json"
+        }
+    ],
+    "version": 4
+}
