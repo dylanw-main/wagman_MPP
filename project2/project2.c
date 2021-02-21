@@ -6,6 +6,9 @@
  */
 
 #include "pico/stdlib.h"
+#include <stdio.h>
+#include "hardware/gpio.h"
+#include "pico/binary_info.h"
 
 int main() {
     const uint LED_PIN = 25;
