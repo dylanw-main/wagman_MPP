@@ -1,6 +1,5 @@
+.DS_Store
 .vscode
 cmake-*
 build
-.DS_Store
 *.pdf
-*.json
