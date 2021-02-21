@@ -1,0 +1,5 @@
+.vscode
+cmake-*
+build
+.DS_Store
+*.pdf
