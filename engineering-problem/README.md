@@ -9,24 +9,32 @@ Contains:
 
 **Pi zero execution time for slower:**
 
-'''pi@raspberrypi:~ $ python3 wagman_p3_slower.py
+'''
+pi@raspberrypi:~ $ python3 wagman_p3_slower.py
 The maximum deflection is -0.33330 cm and occurs at a distance of  2.314 m
-0.016572079000070516'''
+0.016572079000070516
+'''
 
 **Mac execution time for slower:**
 
-'''The maximum deflection is -0.33330 cm and occurs at a distance of  2.314 m
-0.00023808800000002517'''
+'''
+The maximum deflection is -0.33330 cm and occurs at a distance of  2.314 m
+0.00023808800000002517
+'''
 
 **Pi zero execution time for faster:**
 
-'''pi@raspberrypi:~ $ python3 wagman_p3_fast.py
+'''
+pi@raspberrypi:~ $ python3 wagman_p3_fast.py
 Found solution after 3 iterations.
 The maximum deflection is -0.33330 cm and occurs at a distance of  2.314 m
-0.0030260149997047847'''
+0.0030260149997047847
+'''
 
 **Mac execution time for faster:**
 
-'''Found solution after 3 iterations.
+'''
+Found solution after 3 iterations.
 The maximum deflection is -0.33330 cm and occurs at a distance of  2.314 m
-7.072899999999854e-05'''
+7.072899999999854e-05
+'''
